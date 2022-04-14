@@ -1,0 +1,10 @@
+# Anything after a hash sign is a comment
+anObject:
+  aNumber: 42
+  aString: This is a string
+  aBoolean: true
+  nothing: null
+  arrayOfNumbers:
+    - 1
+    - 2
+    - 3
